@@ -35,7 +35,7 @@ const initialState = {
   meetup: {
     title: 'Auth0',
     date: Date(),
-    attendees: ['Bob', 'Jessy', 'Christina', 'Adam']
+    attendees: ['Bob', 'Jessy', 'Christina', 'Adam', 'Elisa']
   },
   user: {
     name: 'Roy'
